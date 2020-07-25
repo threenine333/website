@@ -1,2 +1,2 @@
 # Website
-http://zx.freemyip.com
+http://mh.freemyip.com
